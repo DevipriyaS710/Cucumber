@@ -1,4 +1,5 @@
-Feature: Login page
+
+Feature: Login page Home Page
 
 	@Scenrio_Outline
   Scenario Outline: Validate the user and pass
